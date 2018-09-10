@@ -1,0 +1,6 @@
+O banco de dados está na pasta banco de dados
+
+o login e a senha para acessar o banco de dados é adm
+
+
+se quiser visualizar os relatórios em pdf, terá que utlizar a ferramenta chamada JasperSoft
